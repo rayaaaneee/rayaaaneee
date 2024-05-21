@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.buymeacoffee.com/rayaaaneee" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=rayaaaneee&button_colour=b0f9f8&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" />
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=rayaaaneee&button_colour=b0f9f8&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" />
 </a>
