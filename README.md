@@ -2,8 +2,12 @@
 
 ### Hi there 👋
 
+I'm 21 years old developper, inspired to create useful & beautiful websites. I have a great interest in machine-learning AIs.
+
 ## Interests :
 
+- Design & creation
+- Self-development
 ...
 
 <!--
