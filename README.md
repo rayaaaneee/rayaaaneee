@@ -6,7 +6,7 @@ I'm 21 years old developper, inspired to create useful & beautiful websites. I h
 
 ## My current project
 
-<a href="https://worldmaster.vercel.app/" target="_blank">
+<a href="https://worldmaster.vercel.app/" style="margin-bottom: 20px" target="_blank">
   <img src="https://img.shields.io/badge/World%20Master-F3AE96?style=for-the-badge" height="40px" title="Visit World Master" />
 </a>
 
