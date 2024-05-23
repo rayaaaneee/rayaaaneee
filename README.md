@@ -1,4 +1,4 @@
-# ⌨ Rayane Merlin 🎵
+# ⌨ Rayane Merlin
 
 ### Hi there 👋
 
@@ -18,10 +18,10 @@ You can now try the website for free following this link <a href="https://worldm
 
 ## Interests :
 
-- Design & creation
-- Self-development
-- Photography & video
-- Music
+- Design & creation 🎨
+- Self-development sport 🏋️‍♀️
+- Photography & video 🎥
+- Music 🎵
 
 ## 🚀 Some tools & technologies :
 
