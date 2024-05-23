@@ -41,9 +41,17 @@ Here are some ideas to get you started:
 Technologies :
 
 ## My tools :
-...
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,postman,nextjs,vercel,docker,aws,gcp,figma,ps,ai,git,linux,bash,ansible,npm,pnpm&theme=light" height="140px"/>
+
+## My database tools :
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,neo4j&theme=light" height="70px"/>
+
+## My frameworks & libraries :
+<img src="https://skillicons.dev/icons?i=react,nextjs,symfony,tailwind,threejs,angular,vite,bootstrap,dotnet,spring,pytorch&theme=light" height="70px" />
+
 ## My languages :
-...
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=light" height="70px" />
+
 ---
 
 <div style="display: flex; align-items: center; justify-content: start;">
