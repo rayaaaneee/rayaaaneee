@@ -20,6 +20,8 @@ You can now try the website for free following this link <a href="https://worldm
 
 - Design & creation
 - Self-development
+- Photography & video
+- Music
 
 ## 🚀 Some tools & technologies :
 
@@ -27,16 +29,16 @@ You can now try the website for free following this link <a href="https://worldm
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,nextjs,vercel,docker,aws,gcp,git,linux,bash,ansible,npm,pnpm&theme=dark" height="70px"/>
 
 ## My softwares :
-<img src="https://skillicons.dev/icons?i=postman,figma,ps,ai&theme=dark" height="70px"/>
+<img src="https://skillicons.dev/icons?i=postman,figma,ps,ai&theme=dark" height="60px"/>
 
 ## My database tools :
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark" height="70px"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark" height="60px"/>
 
 ## My frameworks & libraries :
-<img src="https://skillicons.dev/icons?i=react,nextjs,symfony,tailwind,threejs,angular,vite,bootstrap,dotnet,spring,pytorch&theme=dark" height="70px" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,symfony,tailwind,threejs,angular,vite,bootstrap,dotnet,spring,pytorch&theme=dark" height="60px" />
 
 ## My languages :
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=dark" height="70px" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=dark" height="60px" />
 
 ---
 
