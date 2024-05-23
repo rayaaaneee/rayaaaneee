@@ -26,10 +26,10 @@ You can now try the website for free following this link <a href="https://worldm
 ## 🚀 Some tools & technologies :
 
 ## My dev tools :
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,vercel,docker,aws,git,linux,bash,ansible,npm,pnpm&theme=dark" height="60px"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,postman,vercel,docker,aws,git,linux,bash,ansible,npm,pnpm&theme=dark" height="60px"/>
 
 ## My softwares :
-<img src="https://skillicons.dev/icons?i=postman,figma,ps,ai&theme=dark" height="60px"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" height="60px"/>
 
 ## My database tools :
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark" height="60px"/>
