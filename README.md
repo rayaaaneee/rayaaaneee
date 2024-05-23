@@ -13,7 +13,8 @@ I'm 21 years old developper, inspired to create useful & beautiful websites. I h
 I'm currently creating a web-app using Next.js, Tailwind CSS and MySQL.
 This app permits to users to improve their knowledge about countries flags in the world by coloring them, and soon a new mode about guessing country from his shape.
 These features work with SVGs and it required to me to learn and understand their structure and how they work.
-You can now try the website following this link <a href="https://worldmaster.vercel.app/" target="_blank">https://worldmaster.vercel.app/</a> 
+
+You can now try the website for free following this link <a href="https://worldmaster.vercel.app/" target="_blank">https://worldmaster.vercel.app/</a> .
 
 ## Interests :
 
