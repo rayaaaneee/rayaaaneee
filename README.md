@@ -19,38 +19,23 @@ You can now try the website following this link <a href="https://worldmaster.ver
 
 - Design & creation
 - Self-development
-  
-...
 
-<!--
-**rayaaaneee/rayaaaneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Some tools & technologies :
 
-Here are some ideas to get you started:
+## My dev tools :
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,nextjs,vercel,docker,aws,gcp,git,linux,bash,ansible,npm,pnpm&theme=dark" height="70px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-
-Technologies :
-
-## My tools :
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,postman,nextjs,vercel,docker,aws,gcp,figma,ps,ai,git,linux,bash,ansible,npm,pnpm&theme=light" height="140px"/>
+## My softwares :
+<img src="https://skillicons.dev/icons?i=postman,figma,ps,ai&theme=dark" height="70px"/>
 
 ## My database tools :
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,neo4j&theme=light" height="70px"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark" height="70px"/>
 
 ## My frameworks & libraries :
-<img src="https://skillicons.dev/icons?i=react,nextjs,symfony,tailwind,threejs,angular,vite,bootstrap,dotnet,spring,pytorch&theme=light" height="70px" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,symfony,tailwind,threejs,angular,vite,bootstrap,dotnet,spring,pytorch&theme=dark" height="70px" />
 
 ## My languages :
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=light" height="70px" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=dark" height="70px" />
 
 ---
 
