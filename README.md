@@ -26,25 +26,25 @@ You can now try the website for free following this link <a href="https://worldm
 ## 🚀 Some tools & technologies :
 
 ## My dev tools :
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,postman,vercel,docker,aws,git,linux,bash,ansible,npm,pnpm&theme=dark" height="60px"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,postman,vercel,docker,aws,git,linux,bash,ansible,npm,pnpm&theme=dark&perline=9" height="120px"/>
 
 ## My softwares :
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" height="60px"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=9" height="60px"/>
 
 ## My database tools :
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark" height="60px"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark&perline=9" height="60px"/>
 
 ## My frameworks & libraries :
-<img src="https://skillicons.dev/icons?i=react,nextjs,express,prisma,symfony,tailwind,threejs,angular,vite,bootstrap,dotnet,spring,pytorch&theme=dark" height="60px" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,prisma,symfony,tailwind,threejs,angular,vite,bootstrap,dotnet,spring,pytorch&theme=dark&perline=9" height="120px" />
 
 ## My languages :
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=dark" height="60px" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=dark&perline=9" height="120px" />
 
 ---
 
 <div style="display: flex; align-items: center; justify-content: start;">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaaaneee&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite%22" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rayaaaneee&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <!-- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rayaaaneee&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 </div>
 
 ---
