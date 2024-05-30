@@ -19,7 +19,7 @@ You can now try the website for free following this link <a href="https://worldm
 ## Interests :
 
 - Design & creation 🎨
-- Self-development sport 🏋️‍♀️
+- Self-development 🏋️‍♀️
 - Photography & video 🎥
 - Music 🎵
 
