@@ -23,7 +23,7 @@ You can now try the website for free following this link <a href="https://worldm
 - Photography & video 🎥
 - Music 🎵
 
-## 🚀 Some tools & technologies :
+# 🚀 Some tools & technologies :
 
 ## My dev tools :
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,postman,vercel,docker,aws,git,linux,bash,ansible,npm,pnpm&theme=dark&perline=9" height="120px"/>
@@ -39,6 +39,8 @@ You can now try the website for free following this link <a href="https://worldm
 
 ## My languages :
 <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=dark&perline=9" height="120px" />
+
+# ❔ Others
 
 ---
 
