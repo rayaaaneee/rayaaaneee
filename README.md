@@ -4,7 +4,7 @@
 
 I'm 21 years old developper, inspired to create useful & beautiful websites. I have a great interest in machine-learning AIs.
 
-## My current project
+## My current project 💭
 
 <a href="https://worldmaster.vercel.app/" style="margin-bottom: 20px" target="_blank">
   <img src="https://img.shields.io/badge/World%20Master-F3AE96?style=for-the-badge" height="40px" title="Visit World Master" />
@@ -16,28 +16,28 @@ These features work with SVGs and it required to me to learn and understand thei
 
 You can now try the website for free following this link <a href="https://worldmaster.vercel.app/" target="_blank">https://worldmaster.vercel.app/</a> .
 
-## Interests :
+## Interests 🧍
 
 - Design & creation 🎨
 - Self-development 🏋️‍♀️
 - Photography & video 🎥
 - Music 🎵
 
-# 🚀 Some tools & technologies :
+# Some tools & technologies 🚀
 
-## My dev tools :
+## ⌨ My dev tools :
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,postman,vercel,docker,aws,git,linux,bash,ansible,npm,pnpm&theme=dark&perline=9" height="120px"/>
 
-## My softwares :
+## 👩‍💻 My softwares :
 <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=9" height="60px"/>
 
-## My database tools :
+## 💾 My database tools :
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark&perline=9" height="60px"/>
 
-## My frameworks & libraries :
+## 🔧 My frameworks & libraries :
 <img src="https://skillicons.dev/icons?i=react,nextjs,express,prisma,symfony,tailwind,threejs,angular,vite,bootstrap,dotnet,spring,pytorch&theme=dark&perline=9" height="120px" />
 
-## My languages :
+## ✍ My languages :
 <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=dark&perline=9" height="120px" />
 
 # ❔ Others
