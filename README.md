@@ -44,7 +44,7 @@ You can now try the website for free following this link <a href="https://worldm
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: start;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: start;">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaaaneee&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite%22" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rayaaaneee&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
