@@ -40,7 +40,7 @@ You can now try the website for free following this link <a href="https://worldm
 ## ✍ My languages :
 <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,c,cs,java,kotlin,py,php&theme=dark&perline=9" height="120px" />
 
-# ❔ Others
+# Others ❔
 
 ---
 
