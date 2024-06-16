@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm 21 years old developper, inspired to create useful & beautiful websites. I have a great interest in machine-learning AIs.
+I'm a 21 years old developper, inspired to create usefuls & beautifuls websites. I have a great interest in machine-learning AIs.
 
 ## My current project 💭
 
