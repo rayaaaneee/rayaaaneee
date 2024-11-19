@@ -1,4 +1,4 @@
-# ⌨ Rayane Merlin
+# Rayane Merlin
 
 ### Hi there 👋
 
