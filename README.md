@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a 21 years old developper, inspired to create usefuls & beautifuls websites. I have a great interest in machine-learning AIs.
+I'm a 22-year-old developer, inspired to create useful & beautiful websites. I have a great interest in machine-learning AIs.
 
 ## My current project 💭
 
@@ -11,8 +11,8 @@ I'm a 21 years old developper, inspired to create usefuls & beautifuls websites.
 </a>
 
 I'm currently creating a web-app using Next.js, Tailwind CSS and MySQL.
-This app permits to users to improve their knowledge about countries flags in the world by coloring them, and soon a new mode about guessing country from his shape.
-These features work with SVGs and it required to me to learn and understand their structure and how they work.
+This app permits users to improve their knowledge about countries' flags in the world by coloring them, and soon a new mode about guessing a country from its shape.
+These features work with SVGs, and I was required to learn and understand their structure and how they work.
 
 You can now try the website for free following this link <a href="https://worldmaster.vercel.app/" target="_blank">https://worldmaster.vercel.app/</a> .
 
@@ -28,7 +28,7 @@ You can now try the website for free following this link <a href="https://worldm
 ## ⌨ My dev tools :
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,nodejs,postman,vercel,docker,aws,git,linux,bash,ansible,npm,pnpm&theme=dark&perline=9" height="120px"/>
 
-## 👩‍💻 My softwares :
+## 👩‍💻 My softwares:
 <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=9" height="60px"/>
 
 ## 💾 My database tools :
